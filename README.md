@@ -1,4 +1,4 @@
-# exploratory-analysis-of-A-E-data
+# exploratory-analysis-of-A-and-E-data
 This exploratory analysis is based on a synthetic AandE dataset where there is no concern surrounding patient privacy and confidentiality.
 
 # What was the purpose of the analysis?
