@@ -8,7 +8,7 @@ One of the questions this analysis set out to answer was whether heart rate, or 
 
 # Results of the analysis
 
-# [Heart Rate Vs Mortality](https://github.com/Ilja-Lom/exploratory-analysis-of-A-and-E-data/blob/main/images/HR%20Vs%20Mortality.png)
+![](https://github.com/Ilja-Lom/exploratory-analysis-of-A-and-E-data/blob/main/images/HR%20Vs%20Mortality.png)
 
 This analysis found no correlation between heart rate and mortality. A potential reason for this is the small sample size, particularly of patients who have passed away. Additionally, the dataset does not include any records of the reason behind the patient's admission to the hospital; if they were admitted for cardiac related reasons, this correlation might be uncovered, as currently, their mortality might be as a result of a different cause other than cardiac related.
 
